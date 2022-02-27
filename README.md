@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikadmin&show_icons=true&theme=calm)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikadmin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikadmin)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vikadmin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
