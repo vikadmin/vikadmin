@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikadmin
 - 👀 I’m interested in Kubernetes, CI/CD, Python, IaC
 - 🌱 I’m currently learning Docker, Jenkins, AWS
-- 💞️ I’m working on Terraform, Ansible, Packer, ELK
+- 💞️ I’m working with Pulumi, EKS, AWS
 
 <!---
 vikadmin/vikadmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
